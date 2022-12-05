@@ -61,12 +61,8 @@ email: javier.cornejo.niderle@gmial.com
 </a>
  </td>
  
- preview:
- <td>
- <a href="[https://github.com/javito96/COUNTRY-API](https://www.canva.com/design/DAFT7t9ojKs/JjhoNvGn71n_pC5gkItIZA/view#2)">
-  <img align= "left" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="repositorio" height="50" />
-</a>
- </td>
+ preview: https://www.canva.com/design/DAFT7t9ojKs/JjhoNvGn71n_pC5gkItIZA/view#2
+
  
  
   
