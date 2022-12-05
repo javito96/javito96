@@ -23,4 +23,22 @@ Soy de la provincia de salta argentina. Hice el bootcamp de full stack developme
 
 # contacto
 email: javier.cornejo.niderle@gmial.com
-linkedin: https://www.linkedin.com/in/javiercornejo-developerfullstack/
+<table align="left">
+  <tr>
+  <td>
+<a href="https://www.linkedin.com/in/javiercornejo-developerfullstack/">
+  <img align="left" src="https://i.imgur.com/pSEI8t9.png" alt="linkedIn" height="50" width="50" />
+</a>
+  </td>
+  <td>
+<a href="mailto:javier.cornejo.niderle@gmial.com">
+  <img align= "left" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="e-mail gmail" height="50" />
+</a>
+  </td>
+      <td>
+<a href="https://www.instagram.com/javiercornejo1/">
+  <img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="e-mail gmail" height="50" />
+</a>
+  </td>
+  </tr>
+</table>
