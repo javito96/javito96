@@ -5,7 +5,23 @@ Soy de la provincia de salta argentina. Hice el bootcamp de full stack developme
 ![21](https://user-images.githubusercontent.com/94643515/205609119-d1c2e2ad-e672-4b21-a297-897888e4f7f6.gif)
 
 
-###Proyectos
 
-FOOD EXPRESS
+# proyectos
 
+pagina de paises
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+npm i
+```
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
