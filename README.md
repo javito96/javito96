@@ -5,4 +5,5 @@ Soy de la provincia de salta argentina. Hice el bootcamp de full stack developme
 ![21](https://user-images.githubusercontent.com/94643515/205609119-d1c2e2ad-e672-4b21-a297-897888e4f7f6.gif)
 
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+#Heading 1 link [Heading link](https://github.com/pandao/editor.md "PROYECTOS")
+##Heading 2 link [Heading link](https://github.com/pandao/editor.md "countries")
