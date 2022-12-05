@@ -15,10 +15,9 @@ Soy de la provincia de salta argentina. Hice el bootcamp de full stack developme
 - Relaciones interpersonales.
 - Compromiso.
 - Planificación y organización.
-- Resiliencia
 - Scrum
 - Perseverancia
-- Me gusta aceptar nuevos desafíos, asumir riesgos, estar en constante aprendizaje, resolver problemas y escalar las soluciones
+- Me gusta aceptar nuevos desafíos, estar en constante aprendizaje, resolver problemas y escalar las soluciones
 
 
 # contacto
