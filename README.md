@@ -22,8 +22,7 @@ Soy de la provincia de salta argentina. Hice el bootcamp de full stack developme
 
 # contacto
 email: javier.cornejo.niderle@gmial.com
-<table align="left">
-  <tr>
+<table align="left"> 
   <td>
 <a href="https://www.linkedin.com/in/javiercornejo-developerfullstack/">
   <img align="left" src="https://i.imgur.com/pSEI8t9.png" alt="linkedIn" height="50" width="50" />
@@ -43,13 +42,11 @@ email: javier.cornejo.niderle@gmial.com
 <a href="https://twitter.com/Javit0Cornejo">
   <img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="twiter" height="50" />
 </a>
-  </td>
-       
-  </tr>
+  </td>       
+ 
 </table>
 
-
-## Proyectos  
+# Proyectos  
   Proyecto de henry donde trabaje con el back haciendo las rutas, modelos de base de datos y las relaciones y en el front haciendo los componentes de react, un formulario para la creacion de actividades relacionada a los paises y la logica de ordenamientos y filtrados.
   Esta aplicacion se hizo consumiendo una api externa de paises.
   
