@@ -54,7 +54,7 @@ email: javier.cornejo.niderle@gmial.com
   Esta aplicacion se hizo consumiendo una api externa de paises.
   
   
-###  repositorio:
+### 📁repositorio:
 ***
 <td>
 <a href="https://github.com/javito96/COUNTRY-API">
@@ -63,7 +63,6 @@ email: javier.cornejo.niderle@gmial.com
  </td>
  
 ### Preview:
-***
  <td>
  <a href="https://www.canva.com/design/DAFT7t9ojKs/JjhoNvGn71n_pC5gkItIZA/view#2">
   <img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="preview" height="20" />
