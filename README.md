@@ -2,13 +2,24 @@
 ### sobre mi
 Soy de la provincia de salta argentina. Hice el bootcamp de full stack development. Me apasiona el diseño, cuento buena creatividad y me gusta dibujar. Tengo experiencia en  trabajo equipo en proceso de diseño de productos y solucion de problemas en mi carrera de dieño industrial.
 
+# Tech skills
+
 ![21](https://user-images.githubusercontent.com/94643515/205609119-d1c2e2ad-e672-4b21-a297-897888e4f7f6.gif)
 
 
 
-# proyectos
+# Soft skills
 
-pagina de paises
+- Trabajo en equipo, esfuerzo y constancia
+- Relaciones interpersonales.
+- Compromiso.
+- Planificación y organización.
+- Resiliencia
+- Scrum
+- Perseverancia
+- Me gusta aceptar nuevos desafíos, asumir riesgos, estar en constante aprendizaje, resolver problemas y escalar las soluciones
+
+# Proyecto countries
 
 ## Installation
 
