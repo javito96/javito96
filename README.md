@@ -19,3 +19,8 @@ Soy de la provincia de salta argentina. Hice el bootcamp de full stack developme
 - Scrum
 - Perseverancia
 - Me gusta aceptar nuevos desafíos, asumir riesgos, estar en constante aprendizaje, resolver problemas y escalar las soluciones
+
+
+# contacto
+email: javier.cornejo.niderle@gmial.com
+linkedin: https://www.linkedin.com/in/javiercornejo-developerfullstack/
