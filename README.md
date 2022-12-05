@@ -39,5 +39,14 @@ email: javier.cornejo.niderle@gmial.com
   <img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="e-mail gmail" height="50" />
 </a>
   </td>
+         <td>
+<a href="https://www.instagram.com/javiercornejo1/">
+  <img align= "left" src="     <td>
+<a href="https://twitter.com/Javit0Cornejo">
+  <img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="e-mail gmail" height="50" />
+</a>
+  </td>" alt="e-mail gmail" height="50" />
+</a>
+  </td>
   </tr>
 </table>
