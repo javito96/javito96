@@ -42,9 +42,9 @@ email: javier.cornejo.niderle@gmial.com
 <a href="https://twitter.com/Javit0Cornejo">
   <img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="twiter" height="50" />
 </a>
-  </td>       
- 
+  </td>  
 </table>
+
 
 # Proyectos  
   Proyecto de henry donde trabaje con el back haciendo las rutas, modelos de base de datos y las relaciones y en el front haciendo los componentes de react, un formulario para la creacion de actividades relacionada a los paises y la logica de ordenamientos y filtrados.
