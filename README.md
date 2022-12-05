@@ -49,28 +49,41 @@ email: javier.cornejo.niderle@gmial.com
 </table>
 
 
-## Proyectos
-  
+## Proyectos  
   Proyecto de henry donde trabaje con el back haciendo las rutas, modelos de base de datos y las relaciones y en el front haciendo los componentes de react, un formulario para la creacion de actividades relacionada a los paises y la logica de ordenamientos y filtrados.
   Esta aplicacion se hizo consumiendo una api externa de paises.
   
   
-###  repositorio:  <td>
+###  repositorio:
+***
+<td>
 <a href="https://github.com/javito96/COUNTRY-API">
   <img align= "left" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="repositorio" height="50" />
 </a>
  </td>
  
- 
- 
-
- 
 ### Preview:
+***
  <td>
  <a href="https://www.canva.com/design/DAFT7t9ojKs/JjhoNvGn71n_pC5gkItIZA/view#2">
   <img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="preview" height="20" />
 </a>
  </td>
  
- 
+ ## Installation
+***
+A little intro about the installation. 
+```
+$ git clone https://github.com/javito96/COUNTRY-API.git
+$ cd api
+$ npm install
+$ npm start
+```
+
+```
+$ cd client
+$ npm install
+$ npm start
+```
+
   
