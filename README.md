@@ -46,7 +46,6 @@ email: javier.cornejo.niderle@gmial.com
 </table>
 
 ***
-+++
 ***
 ____
 # Proyectos  
@@ -64,6 +63,8 @@ Proyecto de henry donde trabaje con el back haciendo las rutas, modelos de base 
  </td>
  
  
+ ***
+ ***
  ***
   
 ### Preview:  <Link href='https://www.canva.com/design/DAFT7t9ojKs/JjhoNvGn71n_pC5gkItIZA/view#2'>AQUI</link>
