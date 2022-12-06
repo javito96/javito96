@@ -67,12 +67,13 @@ Proyecto de henry donde trabaje con el back haciendo las rutas, modelos de base 
  ***
  ***
   
-### Preview:  <Link href='https://www.canva.com/design/DAFT7t9ojKs/JjhoNvGn71n_pC5gkItIZA/view#2'>AQUI</link>
- <td>
+### Preview: <td>
  <a href="https://www.canva.com/design/DAFT7t9ojKs/JjhoNvGn71n_pC5gkItIZA/view#2">
   <img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="preview" height="20" />
 </a>
  </td>
+ 
+ 
  
 ## Installation
 ***
