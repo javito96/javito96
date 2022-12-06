@@ -72,11 +72,12 @@ Proyecto de henry donde trabaje con el back haciendo las rutas, modelos de base 
   <img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="preview" height="20" />
 </a>
  </td>
+ ***
  
  
  
 ## Installation
-***
+
 A little intro about the installation. 
 ```
 $ git clone https://github.com/javito96/COUNTRY-API.git
