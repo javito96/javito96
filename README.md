@@ -46,11 +46,11 @@ email: javier.cornejo.niderle@gmial.com
 </table>
 
 ***
-
-
 # Proyectos  
-  Proyecto de henry donde trabaje con el back haciendo las rutas, modelos de base de datos y las relaciones y en el front haciendo los componentes de react, un formulario para la creacion de actividades relacionada a los paises y la logica de ordenamientos y filtrados.
+Proyecto de henry donde trabaje con el back haciendo las rutas, modelos de base de datos y las relaciones y en el front haciendo los componentes de react, un formulario para la creacion de actividades relacionada a los paises y la logica de ordenamientos y filtrados.
   Esta aplicacion se hizo consumiendo una api externa de paises.
+  
+
   
   
 ### 📁repositorio:
@@ -59,6 +59,8 @@ email: javier.cornejo.niderle@gmial.com
   <img align= "left" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="repositorio" height="50" />
 </a>
  </td>
+ 
+ 
  ***
   
 ### Preview:
@@ -68,7 +70,7 @@ email: javier.cornejo.niderle@gmial.com
 </a>
  </td>
  
- ## Installation
+## Installation
 ***
 A little intro about the installation. 
 ```
