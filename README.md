@@ -1,7 +1,8 @@
 # Hola!!
 ![No es la montaña a escalar que tienes delante lo que te desgasta, es la piedra en tu zapato](https://user-images.githubusercontent.com/94643515/205610185-0a9a7131-2d42-43d8-96a4-e34a36e92e61.gif)
 # sobre mi
-Soy de la provincia de salta argentina. Hice el bootcamp de full stack development. Me apasiona el diseño, cuento buena creatividad y me gusta dibujar. Tengo experiencia en  trabajo equipo en proceso de diseño de productos y solucion de problemas en mi carrera de dieño industrial.
+Soy de la provincia de salta argentina. Hice el bootcamp de full stack development. Me apasiona el diseño, cuento buena creatividad y me gusta dibujar. Tengo experiencia en  trabajo equipo en proceso de diseño de productos y solucion de problemas en mi carrera de dieño industrial y en el bootcamp de programacion que era un mundo totalmente distinto a lo que conocia. Y nacio mi interes por la programacion, me encanta esto de poder crear mis proyectos a traves del codigo.
+
 
 ### Tech skills
 
