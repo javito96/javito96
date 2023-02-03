@@ -74,6 +74,24 @@ Proyecto de henry donde trabaje con el back haciendo las rutas, modelos de base 
 </a>
  </td>
  ***
+ ### 📁repositorio:
+<td>
+<a href="https://github.com/FoodExpressPF">
+  <img align= "left" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="repositorio" height="50" />
+</a>
+ </td>
+ 
+ 
+ ***
+ ***
+ ***
+  
+### Deploy: <td>
+ <a href="https://www.foodexpress.vercel.app/">
+  <img align= "left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xh8kPpdGNbhHijecuyxqm0BXna_l8unKv8WzbL8&s" alt="preview" height="20" />
+</a>
+ </td>
+ ***
  
  
  
