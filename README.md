@@ -85,6 +85,8 @@ Proyecto de henry donde trabaje con el back haciendo las rutas, modelos de base 
 Aptitudes: Trabajo en equipo · Desarrollo Full Stack · JavaScript · Resolución de problemas · Compromiso · Resiliencia · Bases de datos · Planificación · Analítica · HTML · Sequelize.js · React.js · Redux.js · PostgreSQL · GitHub · Git · Bootstrap- Diseñar y desarrollar una app web en equipo llamada Food Express cuyo propósito es el dar la posibilidad al cliente de reservar una mesa y hacer su pedido desde antes para que al llegar ya este casi lista su comida y tiene opción delivery. - La app cuenta con inicio de sesión autenticada con Auth0, respuesta automática con Nodemailer, opción de pago con PayPal y Mercado Pago. - Es responsive, cuenta con autocompletado en el SearchBar, un booth, entre otras funcionalidades.- Diseñar y desarrollar una app web en equipo llamada Food Express cuyo propósito es el dar la posibilidad al cliente de reservar una mesa y hacer su pedido desde antes para que al llegar ya este casi lista su comida y tiene opción delivery. - La app cuenta con inicio de sesión autenticada con Auth0, respuesta automática con Nodemailer, opción de pago con PayPal y Mercado Pago. - Es responsive, cuenta con autocompletado en el SearchBar, un booth, entre otras funcionalidades.… ver más Aptitudes: Trabajo en equipo · Desarrollo Full Stack · JavaScript · Resolución de problemas · Compromiso · Resiliencia · Bases de datos · Planificación · Analítica · HTML · Sequelize.js · React.js · Redux.js · PostgreSQL · GitHub · Git · Bootstrap
 Aptitudes: Git · Habilidades sociales · React Native · SQL · Express.js · Sequelize.js · ASP.NET Web API · PostgreSQL · HTML · React.js · Redux.js · Node.js
 
+  
+  
  </td>
  ***
  ### 📁repositorio:
@@ -93,6 +95,8 @@ Aptitudes: Git · Habilidades sociales · React Native · SQL · Express.js · S
   <img align= "left" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="repositorio" height="50" />
 </a>
  </td>
+ 
+ 
 
 ### Deploy: <td>
  <a href="https://www.foodexpress.vercel.app/">
