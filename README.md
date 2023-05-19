@@ -50,7 +50,7 @@ email: javier.cornejo.niderle@gmial.com
 </a>
   </td>
           <td>
-<a href="https://twitter.com/Javit0Cornejo">
+<a href="https://twitter.com/Javit0Cornejo" target="_blank">
   <img align= "left" src="https://es.wikipedia.org/wiki/Twitter#/media/Archivo:Logo_of_Twitter.svg" alt="twiter" height="50" />
 </a>
   </td>  
@@ -66,7 +66,7 @@ Durante mi participación en el proyecto individual de Henry, trabajé tanto en 
 
 📁repositorio:
 <td>
-<a href="https://github.com/javito96/COUNTRY-API">
+<a href="https://github.com/javito96/COUNTRY-API" target="_blank">
   <img align= "left" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="repositorio" height="50" />
 </a>
  </td>
@@ -77,7 +77,7 @@ Durante mi participación en el proyecto individual de Henry, trabajé tanto en 
  ***
   
 ### Preview: <td>
- <a href="https://www.canva.com/design/DAFT7t9ojKs/JjhoNvGn71n_pC5gkItIZA/view#2">
+ <a href="https://www.canva.com/design/DAFT7t9ojKs/JjhoNvGn71n_pC5gkItIZA/view#2" target="_blank" >
   <img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="preview" height="20" />
 </a>
 
