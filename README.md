@@ -60,7 +60,7 @@ email: javier.cornejo.niderle@gmial.com
 ***
 ____
 # Proyectos  
-Durante mi participación en el proyecto grupal de Henry, trabajé tanto en el back-end como en el front-end. En el back-end, me encargué de crear las rutas, modelos de base de datos y establecer relaciones. En el front-end, desarrollé componentes de React, incluyendo un formulario para crear actividades relacionadas con los países. También implementé la lógica de ordenamiento y filtrado. La aplicación consumía una API externa de países para obtener datos actualizados. Fue una experiencia emocionante trabajar en este proyecto y combinar mis habilidades en el desarrollo full stack con un equipo talentoso.
+Durante mi participación en el proyecto individual de Henry, trabajé tanto en el back-end como en el front-end. En el back-end, me encargué de crear las rutas, modelos de base de datos y establecer relaciones. En el front-end, desarrollé componentes de React, incluyendo un formulario para crear actividades relacionadas con los países. También implementé la lógica de ordenamiento y filtrado. La aplicación consumía una API externa de países para obtener datos actualizados. Fue una experiencia emocionante trabajar en este proyecto y combinar mis habilidades en el desarrollo full stack con un equipo talentoso.
 
   
   
@@ -87,11 +87,7 @@ Durante mi participación en el proyecto grupal de Henry, trabajé tanto en el b
  ***
  ***
   Proyecto grupal 
-  - Diseñar y desarrollar una app web en equipo llamada Food Express cuyo propósito es el dar la posibilidad al cliente de reservar una mesa y hacer su pedido desde antes para que al llegar ya este casi lista su comida y tiene opción delivery. 
-- La app cuenta con inicio de sesión autenticada con Auth0, respuesta automática con Nodemailer, opción de pago con PayPal y Mercado Pago.
-- Es responsive, cuenta con autocompletado en el SearchBar, un booth, entre otras funcionalidades.- Diseñar y desarrollar una app web en equipo llamada Food Express cuyo propósito es el dar la posibilidad al cliente de reservar una mesa y hacer su pedido desde antes para que al llegar ya este casi lista su comida y tiene opción delivery. - La app cuenta con inicio de sesión autenticada con Auth0, respuesta automática con Nodemailer, opción de pago con PayPal y Mercado Pago. - Es responsive, cuenta con autocompletado en el SearchBar, un booth, entre otras funcionalidades.… ver más
-Aptitudes: Trabajo en equipo · Desarrollo Full Stack · JavaScript · Resolución de problemas · Compromiso · Resiliencia · Bases de datos · Planificación · Analítica · HTML · Sequelize.js · React.js · Redux.js · PostgreSQL · GitHub · Git · Bootstrap- Diseñar y desarrollar una app web en equipo llamada Food Express cuyo propósito es el dar la posibilidad al cliente de reservar una mesa y hacer su pedido desde antes para que al llegar ya este casi lista su comida y tiene opción delivery. - La app cuenta con inicio de sesión autenticada con Auth0, respuesta automática con Nodemailer, opción de pago con PayPal y Mercado Pago. - Es responsive, cuenta con autocompletado en el SearchBar, un booth, entre otras funcionalidades.- Diseñar y desarrollar una app web en equipo llamada Food Express cuyo propósito es el dar la posibilidad al cliente de reservar una mesa y hacer su pedido desde antes para que al llegar ya este casi lista su comida y tiene opción delivery. - La app cuenta con inicio de sesión autenticada con Auth0, respuesta automática con Nodemailer, opción de pago con PayPal y Mercado Pago. - Es responsive, cuenta con autocompletado en el SearchBar, un booth, entre otras funcionalidades.… ver más Aptitudes: Trabajo en equipo · Desarrollo Full Stack · JavaScript · Resolución de problemas · Compromiso · Resiliencia · Bases de datos · Planificación · Analítica · HTML · Sequelize.js · React.js · Redux.js · PostgreSQL · GitHub · Git · Bootstrap
-Aptitudes: Git · Habilidades sociales · React Native · SQL · Express.js · Sequelize.js · ASP.NET Web API · PostgreSQL · HTML · React.js · Redux.js · Node.js
+ Participé en el diseño y desarrollo de la aplicación web Food Express en equipo. Esta aplicación permite a los clientes reservar mesas y hacer pedidos anticipados para que su comida esté casi lista al llegar, además de ofrecer opciones de entrega a domicilio. La app cuenta con funcionalidades como inicio de sesión autenticada con Auth0, respuesta automática con Nodemailer y opciones de pago con PayPal y Mercado Pago. Es una aplicación responsive, con autocompletado en el SearchBar y un booth, entre otras funcionalidades. Demostré habilidades en trabajo en equipo, desarrollo full stack, JavaScript, resolución de problemas, compromiso, resiliencia, bases de datos, planificación, análisis, HTML, Sequelize.js, React.js, Redux.js, PostgreSQL, GitHub, Git y Bootstrap.
 
   
   
@@ -156,7 +152,7 @@ La página web de Infinium puede considerarse como una herramienta de marketing 
  ## Pagina web:
   
 <a href="https://infiniumanalytics.net/#about">
-  <img align= "left" src="![icono-web](https://github.com/javito96/javito96/assets/94643515/63a2cd43-e89a-4dfd-804b-5d6606d4130e)
+  <img align= "left" src="(https://github.com/javito96/javito96/assets/94643515/63a2cd43-e89a-4dfd-804b-5d6606d4130e)
 " alt="Ir a la pagina" height="50" />
 </a>
   
