@@ -150,9 +150,9 @@ La página web de Infinium puede considerarse como una herramienta de marketing 
  </td>}
  
  ## Pagina web:
-  
+ ____
 <a href="https://infiniumanalytics.net/#about">
-  <img align= "left" src="https://github.com/javito96/javito96/assets/94643515/63a2cd43-e89a-4dfd-804b-5d6606d4130e
+  <img align= "left" src="![image](https://github.com/javito96/javito96/assets/94643515/62527e9f-4961-47f9-b2b9-7b424c123855)
 " alt="Ir a la pagina" height="50" />
 </a>
   
