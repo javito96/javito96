@@ -136,6 +136,6 @@ $ npm start
  </td>
   
 <a href="https://infiniumanalytics.net/#about">
-  <img align= "left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-ifvaw&psig=AOvVaw0Ti1B3-D7mlaybSoTaQf_g&ust=1684620159852000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCID3gaSxgv8CFQAAAAAdAAAAABA5" alt="Ir a la pagian" height="50" />
+  <img align= "left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-ivlsw&psig=AOvVaw0Ti1B3-D7mlaybSoTaQf_g&ust=1684620159852000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCID3gaSxgv8CFQAAAAAdAAAAABBB" alt="Ir a la pagina" height="50" />
 </a>
   
