@@ -53,7 +53,13 @@ ____
 Proyecto de henry donde trabaje con el back haciendo las rutas, modelos de base de datos y las relaciones y en el front haciendo los componentes de react, un formulario para la creacion de actividades relacionada a los paises y la logica de ordenamientos y filtrados.
   Esta aplicacion se hizo consumiendo una api externa de paises.
   
-
+ # Trabajo
+  Diseño con figma y creacion de pagina web para empresa infinium, consultora  sobre finanzas.
+  https://infiniumanalytics.net/#about
+  
+<a href="[https://github.com/javito96/COUNTRY-AP](https://infiniumanalytics.net/#about)I">
+  <img align= "left" src="[https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Favant2.es%2Fcodeoscopic-sera-empresa-colaboradora-en-el-congreso-mundial-de-mediadores-de-valencia%2Ficono-web%2F&psig=AOvVaw1e8LhaZzYwEEZaUdQd-3Qo&ust=1684619887420000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDrlqOwgv8CFQAAAAAdAAAAABAE)" alt="ir a la pagina web" height="50" />
+</a>
   
   
 ### 📁repositorio:
