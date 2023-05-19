@@ -152,7 +152,6 @@ La página web de Infinium puede considerarse como una herramienta de marketing 
  ## Pagina web:
  ____
 <a href="https://infiniumanalytics.net/#about">
-  <img align= "left" src="![icono-web](https://github.com/javito96/javito96/assets/94643515/b66be5c6-e112-487c-b991-8b89b76ffa78)
-" alt="Ir a la pagina" height="50" />
+  <img align="left" src="https://www.pngegg.com/es/png-ifvaw" alt="Ir a la página" height="50" />
 </a>
   
