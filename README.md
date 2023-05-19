@@ -53,13 +53,7 @@ ____
 Proyecto de henry donde trabaje con el back haciendo las rutas, modelos de base de datos y las relaciones y en el front haciendo los componentes de react, un formulario para la creacion de actividades relacionada a los paises y la logica de ordenamientos y filtrados.
   Esta aplicacion se hizo consumiendo una api externa de paises.
   
- # Trabajo
-  Diseño con figma y creacion de pagina web para empresa infinium, consultora  sobre finanzas.
-  https://infiniumanalytics.net/#about
-  
-<a href="https://infiniumanalytics.net/#about">
-  <img align= "left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Ffree-png-vwovz&psig=AOvVaw0Ti1B3-D7mlaybSoTaQf_g&ust=1684620159852000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCID3gaSxgv8CFQAAAAAdAAAAABAZ" alt="repositorio" height="50" />
-</a>
+
   
   
 ### 📁repositorio:
@@ -131,4 +125,17 @@ $ npm install
 $ npm start
 ```
 
+ # Trabajo
+  Diseño con figma y creacion de pagina web para empresa infinium, consultora  sobre finanzas. Es una pagina que se trabajo unicamente en el front end con un diseño minimalista y armonioso.
+  https://infiniumanalytics.net/#about
+   📁repositorio:
+<td>
+<a href="https://github.com/ignacioSola/infinium_web">
+  <img align= "left" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="repositorio" height="50" />
+</a>
+ </td>
+  
+<a href="https://infiniumanalytics.net/#about">
+  <img align= "left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-ifvaw&psig=AOvVaw0Ti1B3-D7mlaybSoTaQf_g&ust=1684620159852000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCID3gaSxgv8CFQAAAAAdAAAAABA5" alt="Ir a la pagian" height="50" />
+</a>
   
