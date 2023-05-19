@@ -41,7 +41,7 @@ email: javier.cornejo.niderle@gmial.com
   </td>
           <td>
 <a href="https://twitter.com/Javit0Cornejo">
-  <img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="twiter" height="50" />
+  <img align= "left" src="https://es.wikipedia.org/wiki/Twitter#/media/Archivo:Logo_of_Twitter.svg" alt="twiter" height="50" />
 </a>
   </td>  
 </table>
@@ -100,7 +100,7 @@ Aptitudes: Git · Habilidades sociales · React Native · SQL · Express.js · S
 
 ### Deploy: <td>
  <a href="https://www.foodexpress.vercel.app/">
-  <img align= "left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xh8kPpdGNbhHijecuyxqm0BXna_l8unKv8WzbL8&s" alt="preview" height="20" />
+  <img align= "left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xh8kPpdGNbhHijecuyxqm0BXna_l8unKv8WzbL8&s" alt="preview" height="60"  />
 </a>
  </td>
  
@@ -124,6 +124,7 @@ $ cd client
 $ npm install
 $ npm start
 ```
+***
 
  # Trabajo
   Diseño con figma y creacion de pagina web para empresa infinium, consultora  sobre finanzas. Es una pagina que se trabajo unicamente en el front end con un diseño minimalista y armonioso.
