@@ -156,3 +156,4 @@ La página web de Infinium puede considerarse como una herramienta de marketing 
 " alt="Ir a la pagina" height="50" />
 </a>
   
+![icono-web](https://github.com/javito96/javito96/assets/94643515/b1b4b3ea-f79b-4e0a-8575-116d7928234e)
