@@ -35,17 +35,17 @@ Estoy emocionado de embarcarme en esta nueva etapa profesional, donde puedo segu
 email: javier.cornejo.niderle@gmial.com
 <table align="left"> 
   <td>
-<a href="https://www.linkedin.com/in/javiercornejo-developerfullstack/">
+<a href="https://www.linkedin.com/in/javiercornejo-developerfullstack/" target="_blank">
   <img align="left" src="https://i.imgur.com/pSEI8t9.png" alt="linkedIn" height="50" width="50" />
 </a>
   </td>
   <td>
-<a href="mailto:javier.cornejo.niderle@gmial.com">
+<a href="mailto:javier.cornejo.niderle@gmial.com" target="_blank">
   <img align= "left" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="e-mail gmail" height="50" />
 </a>
   </td>
       <td>
-<a href="https://www.instagram.com/javiercornejo1/">
+<a href="https://www.instagram.com/javiercornejo1/" target="_blank">
   <img align= "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="e-mail gmail" height="50" />
 </a>
   </td>
@@ -63,8 +63,8 @@ ____
 Durante mi participación en el proyecto individual de Henry, trabajé tanto en el back-end como en el front-end. En el back-end, me encargué de crear las rutas, modelos de base de datos y establecer relaciones. En el front-end, desarrollé componentes de React, incluyendo un formulario para crear actividades relacionadas con los países. También implementé la lógica de ordenamiento y filtrado. La aplicación consumía una API externa de países para obtener datos actualizados. Fue una experiencia emocionante trabajar en este proyecto y combinar mis habilidades en el desarrollo full stack con un equipo talentoso.
 
   
-  
-### 📁repositorio:
+
+📁repositorio:
 <td>
 <a href="https://github.com/javito96/COUNTRY-API">
   <img align= "left" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="repositorio" height="50" />
@@ -148,9 +148,8 @@ La página web de Infinium puede considerarse como una herramienta de marketing 
   <img align= "left" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="repositorio" height="50" />
 </a>
  </td>}
- 
- ## Pagina web:
- ____
+ ___
+ ## Pagina web: 
 <a href="https://infiniumanalytics.net/#about">
   <img align="left" src="https://www.pngegg.com/es/png-ifvaw" alt="Ir a la página" height="50" />
 </a>
